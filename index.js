@@ -15,7 +15,7 @@ app.get("/", (req, res) => {
   res.status(200).json({
     "email": "min123kabir@gmail.com",
     "currrent_datetime": now,
-    "guthub_url": "<https://github.com/Nimroddddd/hng-0.git>"
+    "guthub_url": "<https://github.com/Nimroddddd/hng-0.git"
   })
 })
 
