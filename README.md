@@ -27,7 +27,7 @@ This project was built using node.js and serves as a simple API to provide the c
   Base URL:
 
   ```
-  http://localhost:3000/
+  https://hng-0-3jln.onrender.com/
   ```
   
   **Endpoints:**
