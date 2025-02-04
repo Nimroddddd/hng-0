@@ -40,7 +40,7 @@ This project was built using node.js and serves as a simple API to provide the c
     {
       "email": "min123kabir@gmail.com",
       "currrent_datetime": (current time in ISO 8601 format),
-      "guthub_url": "blablabla"
+      "guthub_url": "https://github.com/Nimroddddd/hng-0.git"
     }
      ```
 
